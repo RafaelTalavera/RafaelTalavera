@@ -1,4 +1,4 @@
-### Hey! I'm glad that you visited me 😄
+### Hey! I'm glad that you visited me.
 <div align="center">
  <a href="https://github.com/RafaelTalavera">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelTalavera&theme=darcula&show_icons=true" />
