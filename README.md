@@ -7,10 +7,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelTalavera&theme=darcula" />
 </a>
 <br>
- 
+</div>
+
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
  <br>
-<p align="left">
+
+ <div align="center">
+
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
   <code> <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWlzmeJ6DAovGOhK-WfO_JyKgYrI4G5hCs9uhtXpmaQ&s"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
@@ -20,8 +23,10 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg"> </code> 
-  </p>
+
  </div> 
 
 
