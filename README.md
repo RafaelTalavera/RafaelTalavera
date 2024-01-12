@@ -35,7 +35,7 @@
 💻 Java Programmer<br>
 🔄 Routine : Yoga - Eat - Sleep - Code - Repeat<br>
 ❤️ Music & Code<br>
-📜 Full Stcak Java - SAP ABAP <br>
+📜 Full Stack Java - SAP ABAP <br>
 📝 Favourite Quote : We are what we do to change what they made of us!<br>
 📫 Reach me at rtalavera@live.com.ar<br>
 
